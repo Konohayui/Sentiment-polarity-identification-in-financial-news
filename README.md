@@ -1,6 +1,6 @@
 # Sentiment-polarity-identification-in-financial-news
 
-The main file has following funtions
+News sentiment analysis file has following funtions
   * reuters news scrapper
     - date range: day, week, month, year
   * nltk news sentiment analyzer
