@@ -1,0 +1,1 @@
+# Sentiment-polarity-identification-in-financial-news
